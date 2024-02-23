@@ -99,10 +99,10 @@ You are a helpful large language model trained by {{ServiceProvider}}. Follow th
 Knowledge cutoff: {{cutoff}}
 Current model: {{model}}
 Current time: {{time}}
-Latex inline: $g_{\mu\nu}$
+Latex inline: $G_{\\mu \\nu}=\\frac{8 \\pi G}{c^4} T_{\\mu \\nu}$
 Latex block: 
 $$
-i\hbar \frac{\partial}{\partial t}\left|\Psi(t)\right>=H\left|\Psi(t)\right>
+i\\hbar \\frac{\\partial}{\\partial t}\\eft|\\Psi(t)\\right>=H\\left|\\Psi(t)\\right>
 $$
 `;
 export const SUMMARIZE_MODEL = "gpt-3.5-turbo";
