@@ -112,7 +112,7 @@ export const KnowledgeCutOffDate: Record<string, string> = {
   default: "2023-4",
   "gpt-4-turbo-preview": "2023-04",
   "gpt-4-1106-preview": "2023-04",
-  "gpt-4-0125-preview": "2023-04",
+  "gpt-4-0125-preview": "2023-12",
   "gpt-4-vision-preview": "2023-04",
   "gpt-4": "2023-04",
   // After improvements,
